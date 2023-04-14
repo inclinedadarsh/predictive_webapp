@@ -1,5 +1,9 @@
 # Comment Analysis Web App
 
+https://user-images.githubusercontent.com/84132532/231971847-a47c3076-e5b6-4ea2-91eb-152c3bc18dda.mp4
+
+---
+
 This is a simple web application that allows you to analyze a comment by classifing it in three columns: positive, negative and neutral. It uses huggingface model to classify the comment.
 
 The main aim of making this project was to learn how to use [MindsDB](https://mindsdb.com) with web in the MERN Stack.
